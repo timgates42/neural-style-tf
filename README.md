@@ -191,7 +191,7 @@ Here we reproduce Figure 6 from the first paper:
 *Bottom row (left to right)*: Initialized with white noise (RNG seeds 2, 3, 4)
 
 ### Layer Representations
-The feature complexities and receptive field sizes increase down the CNN heirarchy.
+The feature complexities and receptive field sizes increase down the CNN hierarchy.
 
 Here we reproduce Figure 3 from [the original paper](https://arxiv.org/abs/1508.06576):
 <table align='center'>
